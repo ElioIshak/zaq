@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.15.0](https://github.com/www-zaq-ai/zaq/compare/v0.14.0...v0.15.0) (2026-07-06)
+
+
+### Features
+
+* **action:** new action to persist message into conversation history ([403a301](https://github.com/www-zaq-ai/zaq/commit/403a3010a9e385fd5f40b08da5ffb5ad3d2f575b))
+
+
+### Refactoring
+
+* code review comments ([3f8a704](https://github.com/www-zaq-ai/zaq/commit/3f8a704f1231af64ee031cbc882a6986e84554e2))
+* **notification:** move notification from async to inline ([15bfb6c](https://github.com/www-zaq-ai/zaq/commit/15bfb6ce710fa3994a7cf1acebf8b386235cce71))
+
 ## [0.14.0](https://github.com/www-zaq-ai/zaq/compare/v0.13.0...v0.14.0) (2026-07-03)
 
 
